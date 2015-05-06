@@ -49,6 +49,10 @@ header img.logo {
 
 main {
   overflow: auto;
+  .content {
+    width: 75%;
+    float: left;
+  }
 }
 
 footer {

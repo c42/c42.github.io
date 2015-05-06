@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Innovation Lab of a Fortune 500 office supply chain store (Details under NDA)",
+    "keywords": ["clojure", "hadoop", "amazon redshift"],
+    "locations": ["san francisco", "bangalore"],
+    "description":
+    [
+      "The client is a major player in office supplies worldwide. Their Innovation Lab is an internal department which focuses on increasing conversions across their online and offline properties through personalized offers to the buyer. By tracking the customer clickstream and comparing it with the standard buying patterns, the statistical modeling predicts the buying choices of the customer in real time. This data is then used to generate offers specific to the customer in a request response cycle (10ms SLA).",
+      "C42 Engineering worked with the client team to add features and enhance the platform. C42 was also involved in implementing an Extract-Transform-Load process to load the clickstream data from Hadoop (used for statistical modeling) into Amazon's Redshift. This was used to improve the quality of realtime reports on the performance of various experimental models run by the team."
+    ]
+  },
+  {
+    "name": "Top multinational management consulting firm (Details under NDA)",
+    "keywords": ["coaching","software craftsmanship","bootcamp","bangalore"],
+    "locations": ["bangalore"],
+    "description":
+    [
+      "C42 Engineering was hired to design and deliver the first two iterations of a 6 week customized software craftsmanship bootcamp. The programme introduces participants to the Software Engineering practices necessary to enable continuous delivery with a high degree of consistency and a low defect rate.",
+      "The topics covered include Object Oriented Design, TDD, Design Patterns, Javascript, Ruby and Ruby on Rails. The client will run this programme to induct every batch of  Computer Science graduates they hire moving forward. Our involvement with this programme continues as we transition the running of the programme to client staff."
+    ]
+  },
+  {
+    "name": "Next generation digital media platform (Details under NDA)",
+    "keywords": ["clojure","react.js","microservices","chef","continuous delivery","san francisco/bangalore/delhi"],
+    "locations": ["san francisco","bangalore","delhi"],
+    "description":
+    [
+      "Founded by a team of Indian media industry veterans and serial entrepreneurs with a track record of substantial exits, the client is a startup focused on disrupting digital media publishing.",
+      "Digital publishing is still in the dark ages, with the most commonly used platforms today being Wordpress and its cousins. The available solutions are over 10 years old, and are essentially a patchwork of blogging tools and plugins. The client is building the next generation of digital publishing platforms, one that addresses the needs of modern digital publishers and gives today's connected Internet users the means to consume and engage with content the way they want, where they want.",
+      "C42 was engaged by the client at the earliest stages of product inception and saw it through to launch. We have contributed to the architecture, development and deployment of the entire solution stack."
+    ]
+  },
+  {
+    "name": "Fastest growing e-commerce business in the $14B wedding fashion industry (Details under NDA)",
+    "keywords": ["rails","mySQL","solr","e-commerce","san francisco/pune"],
+    "locations": ["san francisco","pune"],
+    "description":
+    [
+      "The client had recently proved product market fit and raised a round of financing. Their existing e-commerce system was an off-the-shelf CMS. It was simply not flexible enough to support the experimentation necessary to stay on a hockey-stick growth curve. Onboarding product types and running complex A/B tests to streamline funnels took far too much time and effort.",
+      "C42 Engineering first worked with the client to transition their engineering team from PHP to Rails, then helped architect and build the application that is currently handling millions of visits every month. We've worked with them through 100x growth and continue to work with them to help achieve the next 100x."
+    ]
+  },
+  {
+    "name": "Flipkart.com: India's top E-commerce company",
+    "keywords": ["rails","padrino","extreme programming","jruby","REST"],
+    "locations": ["bangalore"],
+    "description":
+    [
+      "Flipkart, India's top online retailer, hired us to help support their teams and build their Ruby/Rails capabilities as well as for our expertise in DevOps and Agile practices."
+    ]
+  },
+  {
+    "name": "A Y-combinator funded startup for business budgeting and cash flow planning.",
+    "keywords": ["rails","CI","TDD"],
+    "locations": ["san francisco","bangalore"],
+    "description":
+    [
+      "We were brought in to help the team develop certain best practices like TDD and Continuous Integration, while also delivering core business functionality."
+    ]
+  },
+  {
+    "name": "Auto dialer for political and commercial campaigns.",
+    "keywords": ["rails","cloud","ec2","twilio","san francisco/bangalore"],
+    "locations": ["san francisco","bangalore"],
+    "description":
+    [
+      "We are the primary development team behind Impact Dialing. We are in charge of ongoing feature development, testing, and deployment, of all components of the application. We work closely with the people at Impact Dialing to improve the quality of their codebase and the processes they use to develop their product."
+    ]
+  },
+  {
+    "name": "A video discovery tool with extensive social media integration",
+    "keywords": ["rails","REST","jruby","couchdb","twitter","facebook","cloud","ec2"],
+    "locations": ["bangalore"],
+    "description":
+    [
+      "We are working with Althea Systems to help build key components of shufflr.tv, a web version of their social video browser, Shufflr. The work involves working with a variety of technologies including Rails 3, JRuby, the Facebook Graph API, the Twitter API and CouchDB with the objective of helping users discover, watch and share videos on the web."
+    ]
+  },
+  {
+    "name": "Travel Planning and Booking application MVP",
+    "keywords": ["rails","travel","facebook apis","MVP"],
+    "locations": ["san francisco","bangalore"],
+    "description":
+    [
+      "It is currently complicated and cumbersome to plan amazing international vacations. CleverBootz is going to change that. Their goal is to make the planning every bit as fun as the actual trip by re-thinking the process of international vacation planning as a fun, social experience.",
+      "CleverBootz approached us with 4 wireframes, a 2 page requirements document, a solid business plan and an amazing business team. It has been a roller coaster journey since then: while the overall goal was to deliver a prototype, things weren't that straightforward. The requirements changed a lot as we learned more about our users and the travel ecosystem on multiple continents. Using Rails and XP practices we were able to provide an environment where these changes could be accommodated really easily resulting in a prototype that was well received by customers on a tight schedule. We are continuing to work with CleverBootz as they build out their product."
+    ]
+  }
+]

@@ -23,21 +23,41 @@
       <%= image_tag "logo.png", :alt => "C42 logo", :class => "logo" %>
       <div class="navigation">
 	<ul>
-	  <li class='home-nav <%= @index_selected_class %>'><a href="/">home</a></li>
-	  <li class='portfolio-nav <%= @portfolio_selected_class %>'><a href="/portfolio">portfolio</a></li>
-	  <li class='products-nav <%= @products_selected_class %>'><a href="/products">products</a></li>
-	  <li class='open_source-nav <%= @open_source_selected_class %>'><a href="/open_source">open source</a></li>
-	  <li class='people-nav <%= @people_selected_class %>'><a href="/people">people</a></li>
-	  <li class='careers-nav <%= @careers_selected_class %>'><a href="/careers">careers</a></li>
-	  <li class='blog-nav'><a href="http://blog.c42.in">blog</a></li>
-	  <li class='about_us-nav <%= @about_us_selected_class %>'><a href="/about_us">about us</a></li>
-	  <li class='contact-us-nav <%= @contact_us_selected_class %>'><a href="/contact_us">contact us</a></li>
+	  <li class='home-nav <%= current_page.data.homepage_selected_class %>'>
+	    <%= link_to "home" , "/" %>
+	  </li>
+	  <li class='portfolio-nav <%= current_page.data.portfolio_selected_class %>'>
+	    <%= link_to "portfolio" , "/portfolio.html" %>
+	  </li>
+	  <li class='products-nav <%= current_page.data.products_selected_class %>'>
+	    <%= link_to "products" , "/products.html" %>
+	  </li>
+	  <li class='open_source-nav <%= current_page.data.open_source_selected_class %>'>
+	    <%= link_to "open source" ,"/open_source.html" %>
+	  </li>
+	  <li class='people-nav <%= current_page.data.people_selected_class %>'>
+	    <%= link_to "people" ,"/people.html" %>
+	  </li>
+	  <li class='careers-nav <%= current_page.data.careers_selected_class %>'>
+	    <%= link_to "careers" ,"/careers.html" %>
+	  </li>
+	  <li class='blog-nav'>
+	    <%= link_to "blog" ,"http://blog.c42.in" %>
+	  </li>
+	  <li class='about_us-nav <%= current_page.data.about_us_selected_class %>'>
+	    <%= link_to "about us" ,"/about_us.html" %>
+	  </li>
+	  <li class='contact-us-nav <%= current_page.data.contact_us_selected_class %>'>
+	    <%= link_to "contact us" ,"/contact_us.html" %>
+	  </li>
 	</ul>
       </div>
     </header>
 
     <main>
-      <%= yield %>
+      <div class="content">
+	<%= yield %>
+      </div>
     </main>
     <footer>
       <ul>
