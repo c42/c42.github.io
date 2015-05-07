@@ -1,0 +1,35 @@
+---
+people_selected_class: selected
+---
+
+<div id="theTeam">
+  <h2>people</h2>
+
+  <% data.people.each do |member| %>
+    <div class="teamMember">
+      <%= image_tag member.image, :alt => member.image_alt %>
+
+      <h3 id="<%= member.name.gsub(/\s/, '-') %>">
+	<span class='name'><%= member.name %></span>
+	<span class="social-media">
+	  <a href="<%= member.social_media.linked_in %>">
+            <%= image_tag "linkedin-icon.png", :alt => "connect on linkedin", :title => "LinkedIn" %>
+	  </a>
+	  <a href="<%= member.social_media.twitter %>">
+            <%= image_tag "twitter-icon-solid-bg.png", :alt => "connect on twitter", :title => "Twitter" %>
+	  </a>
+	  <a href="<%= member.social_media.github %>">
+            <%= image_tag "github.png", :alt => "connect on github", :title => "Github" %>
+	  </a>
+	</span>
+      </h3>
+      <br/>
+      <div class="snippet"><%= member.title %></div>
+      <span class="bio">
+	<% member.bio.each do |para| %>
+	  <p><%= para %></p>
+	<% end %>
+      </span>
+    </div>
+  <% end %>
+</div>

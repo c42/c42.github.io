@@ -1,0 +1,132 @@
+[
+  {
+    "name": "niranjan paranjape",
+    "title": "Founder",
+    "image": "niranjan-tiny.jpg",
+    "image_alt": "Niranjan Paranjape",
+    "social_media": {
+      "linked_in": "http://in.linkedin.com/in/niranjangp",
+      "twitter": "http://www.twitter.com/niranjan_p",
+      "github": "https://github.com/achamian"
+    },
+    "bio": [
+      "Niranjan has spent five years putting his degree in mechanical engineering to good use, first as a Consultant at Infosys and then as a Senior Consultant at ThoughtWorks, delivering software at Fortune 1000 clients across the globe.",
+      "He's spent the last two years helping build a suite of RESTfully integrated Rails applications at one of the world's largest hosting providers.",
+      "Niranjan is one of the organisers of <a href='http://rubyconfindia.org'>RubyConf India 2010</a>, India's first ever RubyConf. He is also a trustee of the Innovation and Technology Trust, the organisation created to support the event.",
+      "Niranjan has <a href='http://lanyrd.com/people/niranjan_p'>spoken at numerous conferences</a>, most recently RubyConf 2011 in New Orleans."
+    ]
+  },
+  {
+    "name": "aakash dharmadhikari",
+    "title": "Founder",
+    "image": "aakash-tiny.jpg",
+    "image_alt": "Aakash Dharmadhikari",
+    "social_media": {
+      "linked_in": "http://in.linkedin.com/pub/aakash-dharmadhikari/12/b48/53",
+      "twitter": "http://www.twitter.com/aakashd",
+      "github": "https://github.com/aakashd"
+    },
+    "bio": [
+      "Aakash obtained his degree in Mechanical Engineering with the intention of doing research in the field of refrigeration and air conditioning, only to discover that his true passion lay in programming.",
+      "He then spent the next few years at a Fortune 500 company doing application migration, a 100,000 employee services giant doing ERP development and a hot local search startup doing app dev, before deciding it was time to do things his way and joining C42 Engineering.",
+      "His application development is driven by one motto - 'Abstraction is the key.'"
+    ]
+  },
+  {
+    "name": "sidu ponnappa",
+    "title": "Founder",
+    "image": "sidu-tiny.jpg",
+    "image_alt": "Sidu Ponnappa",
+    "social_media": {
+      "linked_in": "http://www.linkedin.com/companies/1004056/C42+Engineering",
+      "twitter": "http://www.twitter.com/ponnappa",
+      "github": "https://github.com/kaiwren"
+    },
+    "bio": [
+      "Sidu has been writing code since he was six, starting with Logo back in the days when the 80386 was pretty l33t.",
+      "He started working with Ruby and Rails in 2006 when he co-founded <a href='http://www.inactiv.com'>Activ Mobs</a> (the core of which was a Rails application) with a friend. Since then he has done a bunch of Ruby and Rails work, both <a href='http://github.com/kaiwren'>open-source</a> as well as commercial, the latter as a Senior Consultant at ThoughtWorks. He is a committer on projects like <a href='http://github.com/kaiwren/wrest'>Wrest</a> and <a href='http://github.com/c42/goldberg'>Goldberg</a> and has contributed features to the <a href='http://github.com/rspec'>RSpec</a> project.",
+      "He is a founder and moderator of the <a href='http://groups.google.com/group/bangalorerug'>BangaloreRUG</a>, one of the largest and most active Ruby lists in India. He also conceived and helped organise both <a href='http://devcamp.in'>DevCamp India</a> as well as <a href='http://rubyconfindia.org'>RubyConf India</a> and has presented at <a href='http://lanyrd.com/people/ponnappa'>several conferences</a> including RubyConf India and RubyConf US in New Orleans.",
+      "He <a href='http://blog.sidu.in'>writes</a> occasionally, and his blog is one of approximately three hundred ruby related blogs indexed by <a href='http://rubyliciou.us'>Rubylicious</a>."
+    ]
+  },
+  {
+    "name": "Vineeth BS",
+    "title": "Engineer",
+    "image": "vineeth-tiny.jpeg",
+    "image_alt": "Vineeth BS",
+    "social_media": {
+      "linked_in": "http://in.linkedin.com/in/bsvineeth",
+      "twitter": "http://www.twitter.com/bsvin33t",
+      "github": "https://github.com/bsvineeth"
+    },
+    "bio": [
+      "Vineeth discovered coding in LOGO and BASIC when a Pentium II was brought into his home when he was 8 years old.",
+      "He graduated with Major in Computer Science in 2011. He was introduced to the world of Ruby and Rails in 2012 by a friend. In 2013, he landed himself a full-time job which involved working in ruby, rails.",
+      "He is a proponent of engineering practices like extreme programming, TDD and continuous delivery to build resilient, scalable and maintainable systems and follows them rigorously on live projects.",
+      "Vineeth also enjoys playing the blues on the guitar and is currently trying to learn to play the harmonica."
+    ]
+  },
+  {
+    "name": "anurag kanungo",
+    "title": "Software Engineer",
+    "image": "anurag-tiny.jpg",
+    "image_alt": "Anurag Kanungo",
+    "social_media": {
+      "linked_in": "https://www.linkedin.com/in/anuragkanungo",
+      "twitter": "http://www.twitter.com/anuragkanungo",
+      "github": "https://github.com/anuragkanungo"
+    },
+    "bio": [
+      "Anurag is an open source enthusiast with contributions to <a href='https://gerrit.libreoffice.org/gitweb?p=core.git;a=search;h=HEAD;s=anuragkanungo;st=author'>Libreoffice</a>, <a href='https://github.com/anuragkanungo/mooc/'>Edx</a> and <a href='https://github.com/learningequality/ka-lite/pulls?q=is%3Apr+author%3Aanuragkanungo+is%3Aclosed'>Khan Academy</a>.",
+      "He is a computer science graduate with honors from <a href='http://puchd.ac.in'>Panjab University</a>, Chandigarh.",
+      "He started in the field of system administration and network security where he obtained the <a href='http://www.redhat.com/en/services/certification/rhce'>RedHat Certified Engineer</a> and <a href='http://www.eccouncil.org/Certification/certified-ethical-hacker'>Certified Ethical Hacker</a> certifications.",
+      "Shortly after, he started contributing to open source and found programming to be his passion. He was a student developer in the <a href='http://www.google-melange.com/gsoc/project/details/google/gsoc2014/anuragkanungo/5738600293466112'> Google Summer of Code programme, 2014</a> for <a href='https://gerrit.libreoffice.org/gitweb?p=libpagemaker.git;a=search;s=anuragkanungo;st=author'>Libreoffice</a>.",
+      "He has also interned at IIT Bombay and Ernst &amp; Young working on <a href='http://iitbombayx.cse.iitb.ac.in/'>Edx</a> and technology services respectively.",
+      "He has published a research paper on ' <a href='http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6799542&amp;refinements%3D4267518200%26sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A6799496%29'>Smart Traffic Light Switching and Traffic Density Calculation Using Video Processing</a>' in 'IEEE Explore,' the IEEE publication on Recent Advances in Engineering and Computational Sciences."
+    ]
+  },
+  {
+    "name": "ranjeet singh",
+    "title": "Engineer",
+    "image": "ranjeet-tiny.jpg",
+    "image_alt": "Ranjeet Singh",
+    "social_media": {
+      "linked_in": "https://www.linkedin.com/in/raeoks",
+      "twitter": "http://www.twitter.com/raeoks",
+      "github": "https://github.com/raeoks"
+    },
+    "bio": [
+      "Ranjeet obtained his degree in software engineering with the intention of doing research in the field of programming language theory, but after listening to Rich Hickey's talk on Clojure he discovered that his true passion lies in programming and software design.",
+      "He started his career working as a Java programmer at <a href='http://nagarro.com'>Nagarro Inc.</a>, where he chose join the Java Software Architecture Group (JSAG) to develop internal products and do consulting on client projects for the company. After leaving Nagarro, he decided to get more involved with the consulting side of software development, so he joined C42 Engineering. He loves to solve classical computer science problems from parallel computation to database design. Every now and then when he finds himself doing a proof of concept or a hack, most of which is available as open source either on his <a href='http://github.com/raeoks'>Github</a> or <a href='http://bitbucket.com/raeoks'>BitBucket</a> profile.",
+      "His work is driven by the motto 'Leader, discipline thyself'."
+    ]
+  },
+  {
+    "name": "Shishir Joshi",
+    "title": "Engineer",
+    "image": "shishir-tiny.jpg",
+    "image_alt": "Shishir Joshi",
+    "social_media": {
+      "linked_in": "http://in.linkedin.com/pub/shishir-joshi/88/253/504/",
+      "twitter": "http://www.twitter.com/shishir127",
+      "github": "https://github.com/shishir127"
+    },
+    "bio": [
+      "Shishir graduated with a bachelors degree in Electronics &amp; Instrumentation Engineering in 2011. Having landed an IT services job after graduation, Shishir realised that programming is not that bad or boring after all. He has also spent two and half years working in the embedded system and telephony space for a tech giant."
+    ]
+  },
+  {
+    "name": "Aninda Kundu",
+    "title": "Engineer",
+    "image": "aninda-tiny.jpg",
+    "image_alt": "Aninda",
+    "social_media": {
+      "linked_in": null,
+      "twitter": "http://www.twitter.com/aninda42",
+      "github": "https://github.com/spacefugitive"
+    },
+    "bio": [
+      "Aninda has delusions of changing the world with software. With over 10 years of programming experience, he hasn't changed the world quite yet. He likes programming in ruby, javascript, .NET and his current favorite clojure. He is a shy reluctant conference speaker and a bathroom thinker."
+    ]
+  }
+]

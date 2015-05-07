@@ -1,0 +1,91 @@
+#theTeam {
+  float: left;
+  margin: 0 0 0 2em;
+  text-align: justify;
+
+  h2 {
+    font-size: 18px;
+    color: #111111;
+    padding-bottom: 0.2em;
+    border-bottom: 1px solid red;
+    margin-bottom: 1em;
+  }
+
+  img.team {
+    float: left;
+    margin-left: 2em;
+  }
+
+  .teamRow {
+    clear: left;
+    margin: 1em 0 0 5em;
+  }
+
+  .teamMember {
+    margin: 0 0 4em 0;
+    float: left;
+    text-align: justify;
+    width: 88%;
+  }
+
+  .teamMember h3 {
+    font-size: 18px;
+    color: #111111;
+    #border-left: 1px solid red;
+    padding-left: 0.2em;
+    margin-bottom: 1em;
+    margin-left: 3em;
+  }
+
+  .teamMember img {
+    float: left;
+    height: 50px;
+    width: 50px;
+  }
+
+  .teamMember div.snippet {
+    font-size: 12px;
+    color: #888;
+    padding-left: 0.2em;
+    margin-top: -0.8em;
+    margin-bottom: 0.5em;
+    margin-left: 4.6em;
+  }
+
+  .teamMember .bio {
+    font-size: 12px;
+    padding-top: 0.5em;
+    color: #555;
+    padding-bottom: 1em;
+  }
+
+  .teamMember .bio p {
+    width: 90%;
+    padding-top: 0.5em;
+  }
+
+  .teamMember .bio a {
+    text-decoration: underline;
+  }
+
+  .teamMember h3 span.name{
+    position: relative;
+    float: left;
+  }
+
+  .social-media {
+    position: relative;
+    float: left;
+  }
+
+  .social-media p.email img, .social-media p.linked-in img, .social-media a img {
+    margin-top: 0.2em;
+    padding-left: 0.5em;
+    height: 16px;
+    width: 16px;
+  }
+
+  div.snippet {
+    display: block;
+  }
+}
