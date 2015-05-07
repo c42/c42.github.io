@@ -31,6 +31,10 @@
     margin: 1em .2em .1em 2em;
   }
 
+  .thumbnail img {
+    max-width: 100%;
+  }
+
   .quote blockquote {
     quotes:"\201C""\201D""\2018""\2019";
     font-style: italic;

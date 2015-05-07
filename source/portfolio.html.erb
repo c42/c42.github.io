@@ -9,6 +9,13 @@ title: C42 Engineering | portfolio
       <div class="name highlight">
 	<%= project.name %>
       </div>
+      <% if project.image %>
+	<div class="thumbnail">
+	  <a href="<%= project.company_url %>">
+	    <%= image_tag project.image, :alt => project.company %>
+	  </a>
+	</div>
+      <% end %>
       <div class="keywords highlight">
 	Keywords:
 	<ul>
@@ -25,6 +32,16 @@ title: C42 Engineering | portfolio
 	  <% end %>
 	</ul>
       </div>
+      <% if project.quote %>
+	<div class="quote">
+	  <div class="highlight">Customer Quote</div>
+	  <blockquote><%= project.quote.large %></blockquote>
+	  <p>
+	    <%= project.quote.author %>, <%= project.quote.title %>,
+	    <%= link_to project.company, project.company_url %>
+	  </p>
+	</div>
+      <% end %>
       <div class="description">
 	<div class="highlight">Project Description</div>
 	<% project.description.each do |desc| %>
