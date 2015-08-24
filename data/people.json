@@ -50,42 +50,6 @@
     ]
   },
   {
-    "name": "Vineeth BS",
-    "title": "Engineer",
-    "image": "vineeth-tiny.jpeg",
-    "image_alt": "Vineeth BS",
-    "social_media": {
-      "linked_in": "http://in.linkedin.com/in/bsvineeth",
-      "twitter": "http://www.twitter.com/bsvin33t",
-      "github": "https://github.com/bsvineeth"
-    },
-    "bio": [
-      "Vineeth discovered coding in LOGO and BASIC when a Pentium II was brought into his home when he was 8 years old.",
-      "He graduated with Major in Computer Science in 2011. He was introduced to the world of Ruby and Rails in 2012 by a friend. In 2013, he landed himself a full-time job which involved working in ruby, rails.",
-      "He is a proponent of engineering practices like extreme programming, TDD and continuous delivery to build resilient, scalable and maintainable systems and follows them rigorously on live projects.",
-      "Vineeth also enjoys playing the blues on the guitar and is currently trying to learn to play the harmonica."
-    ]
-  },
-  {
-    "name": "anurag kanungo",
-    "title": "Software Engineer",
-    "image": "anurag-tiny.jpg",
-    "image_alt": "Anurag Kanungo",
-    "social_media": {
-      "linked_in": "https://www.linkedin.com/in/anuragkanungo",
-      "twitter": "http://www.twitter.com/anuragkanungo",
-      "github": "https://github.com/anuragkanungo"
-    },
-    "bio": [
-      "Anurag is an open source enthusiast with contributions to <a href='https://gerrit.libreoffice.org/gitweb?p=core.git;a=search;h=HEAD;s=anuragkanungo;st=author'>Libreoffice</a>, <a href='https://github.com/anuragkanungo/mooc/'>Edx</a> and <a href='https://github.com/learningequality/ka-lite/pulls?q=is%3Apr+author%3Aanuragkanungo+is%3Aclosed'>Khan Academy</a>.",
-      "He is a computer science graduate with honors from <a href='http://puchd.ac.in'>Panjab University</a>, Chandigarh.",
-      "He started in the field of system administration and network security where he obtained the <a href='http://www.redhat.com/en/services/certification/rhce'>RedHat Certified Engineer</a> and <a href='http://www.eccouncil.org/Certification/certified-ethical-hacker'>Certified Ethical Hacker</a> certifications.",
-      "Shortly after, he started contributing to open source and found programming to be his passion. He was a student developer in the <a href='http://www.google-melange.com/gsoc/project/details/google/gsoc2014/anuragkanungo/5738600293466112'> Google Summer of Code programme, 2014</a> for <a href='https://gerrit.libreoffice.org/gitweb?p=libpagemaker.git;a=search;s=anuragkanungo;st=author'>Libreoffice</a>.",
-      "He has also interned at IIT Bombay and Ernst &amp; Young working on <a href='http://iitbombayx.cse.iitb.ac.in/'>Edx</a> and technology services respectively.",
-      "He has published a research paper on ' <a href='http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6799542&amp;refinements%3D4267518200%26sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A6799496%29'>Smart Traffic Light Switching and Traffic Density Calculation Using Video Processing</a>' in 'IEEE Explore,' the IEEE publication on Recent Advances in Engineering and Computational Sciences."
-    ]
-  },
-  {
     "name": "ranjeet singh",
     "title": "Engineer",
     "image": "ranjeet-tiny.jpg",
@@ -102,7 +66,7 @@
     ]
   },
   {
-    "name": "Shishir Joshi",
+    "name": "shishir joshi",
     "title": "Engineer",
     "image": "shishir-tiny.jpg",
     "image_alt": "Shishir Joshi",
@@ -116,7 +80,7 @@
     ]
   },
   {
-    "name": "Aninda Kundu",
+    "name": "aninda kundu",
     "title": "Engineer",
     "image": "aninda-tiny.jpg",
     "image_alt": "Aninda",
@@ -130,7 +94,7 @@
     ]
   },
   {
-    "name": "Vijay Dhama",
+    "name": "vijay dhama",
     "title": "Junior Consultant",
     "image": "vijay-tiny.jpg",
     "image_alt": "Vijay Dhama",
