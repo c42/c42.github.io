@@ -128,5 +128,19 @@
     "bio": [
       "Aninda has delusions of changing the world with software. With over 10 years of programming experience, he hasn't changed the world quite yet. He likes programming in ruby, javascript, .NET and his current favorite clojure. He is a shy reluctant conference speaker and a bathroom thinker."
     ]
+  },
+  {
+    "name": "Vijay Dhama",
+    "title": "Junior Consultant",
+    "image": "vijay-tiny.jpg",
+    "image_alt": "Vijay Dhama",
+    "social_media": {
+      "linked_in": "https://in.linkedin.com/in/vjdhama",
+      "twitter": "http://www.twitter.com/vjdhama",
+      "github": "https://github.com/vjdhama"
+    },
+    "bio": [
+      "Vijay started programming with C++ back in his school days. He is a MOOC enthusiast and believes that knowledge should be freely accessible. In his college days he played around with various languages including Python, Java and Ruby. Freshly out of college, he hopes to master the art of software development and design."
+    ]
   }
 ]
